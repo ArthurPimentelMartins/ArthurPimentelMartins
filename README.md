@@ -15,7 +15,7 @@ Apaixonado por Estruturas de Dados e Arquitetura de Software, busco sempre enten
 
 ### 🚀 Principais Projetos (Destaques)
 
-#### 1. [API RESTful de Gestão de Estoque](https://github.com/ArthurPimentelMartins/SEU_REPOSITORIO_SPRING_ESTOQUE_AQUI) *(Java / Spring Boot)*
+#### 1. [API RESTful de Gestão de Estoque](https://github.com/ArthurPimentelMartins/api-estoque-spring.git) *(Java / Spring Boot)*
 Evolução do sistema original APEX. Migração de uma infraestrutura baseada em Java puro/Servlets para uma **API RESTful** moderna e escalável. Destaque para o design em camadas, tratamento global de exceções (`@RestControllerAdvice`), validação de payloads (*Jakarta Validation*) e controle transacional de banco de dados (`@Transactional`) com Spring Data JPA.
 
 #### 2. [APEX - Sistema Web de Gestão de Estoque](https://github.com/ArthurPimentelMartins/APEX) *(Java / MVC)*
