@@ -1,4 +1,4 @@
-# Olá! Eu sou o Arthur Pimentel Martins (pimens) 👋
+# Olá! Eu sou o Arthur Pimentel Martins 👋
 
 Sou estudante do 2º ano de **Ciência da Computação** na FEMA e **Técnico em Mecânica**, unindo uma forte base em lógica de programação com uma visão sistêmica de processos industriais. Meu foco principal é o desenvolvimento **Backend**, criando sistemas robustos, escaláveis e APIs RESTful.
 
