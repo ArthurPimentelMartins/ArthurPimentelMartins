@@ -24,10 +24,10 @@ Aplicação web para gerenciar um ecossistema completo de RPG (Heróis, Grupos, 
 #### 3. [MaxLanguage - Motor de Banco de Dados Customizado](https://github.com/ArthurPimentelMartins/TrabalhoBegossoArvore) *(Python)*
 Plataforma gamificada de aprendizado de idiomas que utiliza um mecanismo de persistência construído do zero. Em vez de SGBDs tradicionais, implementa **Árvores Binárias de Busca (BST)** em memória interagindo diretamente com **Arquivos Indexados** no disco rígido para otimizar operações I/O.
 
-#### 4. [Sistema de Inventário e Vendas em Memória](https://github.com/ArthurPimentelMartins/SEU_REPOSITORIO_CPP_AQUI) *(C++)*
+#### 4. [Sistema de Inventário e Vendas em Memória](https://github.com/ArthurPimentelMartins/sistema-gestao-cpp.git) *(C++)*
 Gerenciador de estoque operando integralmente na memória RAM, focado em alta performance algorítmica. Implementa validações relacionais via **Busca Binária (Binary Search)** e organização contínua via **Bubble Sort**, além de cálculo automático para reposição preditiva de estoque.
 
-#### 5. 🚧 [API de Prontuário Médico de Emergência](https://github.com/ArthurPimentelMartins/SEU_REPOSITORIO_SPRING_AQUI) *(Java / Spring Boot)*
+#### 5. 🚧 [API de Prontuário Médico de Emergência](https://github.com/ArthurPimentelMartins/api-prontuario-medico.git) *(Java / Spring Boot)*
 *(Em Desenvolvimento)* API REST para digitalização e gestão de triagem hospitalar pré-hospitalar, registrando sinais vitais e intervenções críticas. Utiliza Spring Data JPA para persistência e isolamento de responsabilidades.
 
 ---
