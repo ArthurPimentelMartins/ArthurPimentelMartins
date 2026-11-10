@@ -16,7 +16,7 @@ Apaixonado por Estruturas de Dados e Arquitetura de Software, busco sempre enten
 ### 🚀 Principais Projetos (Destaques)
 
 #### 1. [API de Prontuário Médico de Emergência](https://github.com/ArthurPimentelMartins/api-prontuario-medico.git) *(Java / Spring Boot)*
-API RESTful para gestão de triagem hospitalar e fichas de atendimento emergencial. O sistema foi modelado para receber e persistir dados clínicos críticos, como aferição de sinais vitais, registro de lesões e administração de medicações. A arquitetura foca no isolamento de responsabilidades e na persistência eficiente em banco de dados relacional (Hibernate).
+Aplicação para gestão de triagem hospitalar. O backend foi construído em Spring Boot, utilizando Java Records (DTOs) e validações clínicas customizadas. O controle de acesso foi feito do zero utilizando HandlerInterceptors e HttpSession. O frontend (Bootstrap/JS) consome a API através de um túnel reverso criado com Ngrok, envolvendo configurações complexas de CORS e manipulação de cabeçalhos HTTP, além de renderizar relatórios em PDF dinamicamente no client-side.
 
 #### 2. [API RESTful de Gestão de Estoque](https://github.com/ArthurPimentelMartins/api-estoque-spring.git) *(Java / Spring Boot)*
 Evolução do sistema original APEX. Migração de uma infraestrutura baseada em Java puro/Servlets para uma **API RESTful** moderna e escalável. Destaque para o design em camadas, tratamento global de exceções (`@RestControllerAdvice`), validação de payloads (*Jakarta Validation*) e controle transacional de banco de dados (`@Transactional`) com Spring Data JPA.
